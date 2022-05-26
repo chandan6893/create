@@ -1,0 +1,63 @@
+.header{
+    background-color: black; 
+}
+.containerA{
+    display: flex;
+    justify-content: space-around;
+    /* background-color:black; */
+}
+a{
+    text-decoration: none;
+    margin-right: 15px;
+    color: aliceblue;
+    /* background-color: black; */
+}
+.containerB{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.intro{
+    display: flex;
+    /* align-items: center; */
+    flex-direction: column;
+    justify-content: center;
+}
+.green{
+    color:lightgreen;
+}
+.white{
+    color: aliceblue;
+}
+.padding{
+    background-color: aquamarine;
+    padding: 10px 30px;
+    border-radius: 10px;
+    line-height: 45px;
+}
+.font{
+    font-size: 30px;
+    
+    color: aquamarine;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    
+
+}
+.myintro{
+    display: flex;
+    flex-direction: column;
+    margin-left: 65px;
+    
+    
+}
+.cv{
+    background-color: brown;
+    color: aliceblue;
+}
+button{
+    background-color: aquamarine;
+}
